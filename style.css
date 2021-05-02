@@ -1,0 +1,44 @@
+* {
+  font-size: 20px;
+}
+.heading {
+  text-transform: uppercase;
+  font-size: 110px;
+  text-align: center;
+}
+.democratic {
+  font-size: 80px;
+  text-align: center;
+}
+.political {
+  font-size: 90px;
+  text-align: left;
+}
+.noimmediate {
+  font-size: 30px;
+  text-align: left;
+}
+.card {
+  margin-top: 10px;
+  padding: 20px;
+}
+.row bg-danger {
+  margin-bottom: 10px;
+}
+
+#cardver {
+  writing-mode: vertical-rl;
+  font-size: 30px;
+  margin: 0px;
+  text-align: center;
+}
+#issue {
+  text-align: left;
+}
+
+#add {
+  text-align: center;
+}
+#price {
+  text-align: right;
+}
